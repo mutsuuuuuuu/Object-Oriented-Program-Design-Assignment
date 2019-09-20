@@ -1,2 +1,9 @@
-# Object-Oriented-Program-Design-Sem-1
-Object Oriented Program Design Assignment Semester 1 2019
+# OBJECT ORIENTED PROGRAM DESINGN ASSIGNMENT SEMESTER 1
+
+## About
+Assignment for OOPD 
+
+## Copyright
+
+
+
